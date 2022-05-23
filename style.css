@@ -8,7 +8,7 @@
 }
 
 body {
-	background: url("background.png") repeat-y;
+	background: url("background.png");
 	font-family: "Segoe UI","Microsoft YaHei";
 }
 
