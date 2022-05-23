@@ -18,7 +18,7 @@ a {
 }
 
 header {
-	color: #fff;
+	color: #ffcc00;
 	text-align: center;
 	min-height: 140px;
 	margin-bottom: 60px;
@@ -60,7 +60,7 @@ header a{
 }
 
 .tabs {
-	background: #fff;
+	background: #FFFFFF;
 	position: relative;
 	margin-bottom: 50px;
 }
@@ -83,7 +83,7 @@ header a{
 }
 
 .tabs > span {
-	background: #f0f0f0;
+	background: #ffcc00;
 	text-align: center;
 	overflow: hidden;
 }
